@@ -1,0 +1,16 @@
+console.log("aishu")
+function a(){
+    let a=10;
+    let b=20;
+    console.log(a+b) 
+}
+function ob(){
+    var c=confirm("want to delete");
+    if(c==true){
+        alert("deleted")
+    }else{
+        alert("canceled")
+    }
+
+}
+a()
